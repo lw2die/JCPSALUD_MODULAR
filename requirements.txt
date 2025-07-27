@@ -1,0 +1,8 @@
+watchdog
+opencv-python
+pytesseract
+gspread
+oauth2client
+unidecode
+rapidfuzz
+pytest

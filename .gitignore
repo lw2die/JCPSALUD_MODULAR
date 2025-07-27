@@ -1,0 +1,10 @@
+# Entorno virtual
+.venv/
+# Credentials
+creds.json
+# Carpeta de datos procesados
+processed/
+# Logs
+logs/
+# Archivos de sistema
+Thumbs.db
