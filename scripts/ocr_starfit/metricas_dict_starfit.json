@@ -1,0 +1,36 @@
+{
+  "Peso (kg)": ["peso", "Peso (kg)", "star fit weight"],
+  "% de músculo": [
+    "frecuencia muscular",
+    "Frecuencia muscular (%)",
+    "Frecuencia (%)",
+    "Frecuencia",
+    "Frecuencia %"
+  ],
+  "Grasa Visceral": ["Grasa Visceral", "grasa visceral"],
+  "Masa Muscular (kg)": ["Masa Muscular (kg)", "muscular mass"],
+  "IMC": ["IMC", "imc"],
+  "Perdida grasa (kg)": ["pérdida de grasa", "Perdida grasa (kg)"],
+  "Agua Corporal (%)": ["agua corporal", "Agua Corporal (%)"],
+  "Mase Esqueletica (kg)": ["masa esqueletica", "Mase Esqueletica (kg)"],
+  "Grasa Corporal (%)": ["grasa corporal", "Grasa Corporal (%)"],
+  "Grasa subcutanea (%)": ["Grasa subcutanea (%)", "grasa subcutánea"],
+  "Músculo Esquelético (%)": [
+    "musculo esqueletico",
+    "Musculo esqueletico (%)",
+    "Musculo (%)",
+    "Músculo (%)"
+  ],
+  "Proteina (%)": ["proteína", "Proteina (%)"],
+  "BMR (kcal)": ["bmr", "BMR (kcal)"],
+  "Masa grasa (kg)": ["masa grasa", "Masa grasa (kg)"],
+  "Peso corporal estandar (kg)": ["peso estandar", "Peso corporal estandar (kg)"],
+  "Edad Corporal": ["edad corporal", "Edad Corporal"],
+  "Contenido agua Alto (kg)": ["agua alta", "Contenido agua Alto (kg)"],
+  "WHR": ["whr", "WHR"],
+  "Cantidad proteina (kg)": [
+    "cantidad proteína",
+    "Cantidad proteina (kg)",
+    "Cantidad (kg)"
+  ]
+}
